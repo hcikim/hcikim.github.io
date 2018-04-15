@@ -1,6 +1,6 @@
 # Taewook Kim's personal blog repository.
 
-URL: [http://tw-kim.github.io](http://tw-kim.github.io)
+URL: [http://hcikim.github.io](http://hcikim.github.io)
 
 The original theme of this blog is [Minimal Theme](http://orderedlist.github.com/minimal/)
 
@@ -14,4 +14,4 @@ Basically, the original theme is licensed under a [Creative Commons Attribution-
 
 I have built this blog by modifying the original work: [Minimal Theme](http://orderedlist.github.com/minimal/).
 
-© 2017 [Taewook Kim](http://tw-kim.github.io) ALL RIGHTS RESERVED
+© 2017 [Taewook Kim](http://hcikim.github.io) ALL RIGHTS RESERVED
