@@ -12,6 +12,6 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 
 Basically, the original theme is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-I have built this blog by modifying the original work: [Minimal Theme](http://orderedlist.github.com/minimal/).
+This blog has been built by modifying the original work: [Minimal Theme](http://orderedlist.github.com/minimal/).
 
-© 2017 [Taewook Kim](http://hcikim.github.io) ALL RIGHTS RESERVED
+© 2018 [Taewook Kim](http://hcikim.github.io) ALL RIGHTS RESERVED
