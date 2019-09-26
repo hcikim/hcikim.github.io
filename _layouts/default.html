@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{%- include head.html -%}
+</head>
+<body>
+	<main class="container">
+		<section class="about">
+			<img src="{{ "/assets/tommy.png" | relative_url }}" alt="{{ site.plainwhite.name }}">
+			<h2><a href="http://hcikim.github.io/" style="text-decoration: none"><b>{{ site.plainwhite.name }}</b></a></h2>
+			<p class="tagline"><a href="../assets/Taewook-CV.pdf" target="_blank" style='text-decoration: none;'>{{ site.plainwhite.tagline }}</a></p>
+			
+			<ul class="social">
+				<a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank"><li><i class="icon-github-circled"></i></li></a>
+				<a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}" target="_blank"><li><i class="icon-linkedin-squared"></i></li></a>
+				<a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}" target="_blank"><li><i class="icon-twitter-squared"></i></li></a>
+			</ul>
+			<p><b>Contact:</b> tw.kim <i>at</i> connect.ust.hk<br></p>
+			<p>&copy; 2019</p>
+		</section>
+		<section class="content">
+			{{ content }}
+		</section>
+	</main>
+	{%- if site.plainwhite.analytics_id -%}
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+	<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123511119-1"></script> -->
+	<script>
+
+		// window.dataLayer = window.dataLayer || [];
+		// function gtag(){dataLayer.push(arguments);}
+		// gtag('js', new Date());
+
+		// gtag('config', 'UA-123511119-1');
+
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.plainwhite.analytics_id }}');
+	</script>
+	{%- endif -%}
+</body>
+</html>

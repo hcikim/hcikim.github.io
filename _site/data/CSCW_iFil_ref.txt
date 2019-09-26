@@ -1,1 +1,0 @@
-Ziming Wu, Zhida Sun, Taewook Kim, Manuele Reani, Caroline Jay, and Xiaojuan Ma. 2018. Mediating Color Filter Exploration with Color Theme Semantics Derived from Social Curation Data. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 187 (November 2018), 24 pages. https://doi.org/10.1145/3274456
