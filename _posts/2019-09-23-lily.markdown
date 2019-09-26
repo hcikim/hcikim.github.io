@@ -67,7 +67,7 @@ The overview of our system framework. (a) Once a user receives a message(M<sub>1
 ## Demo usage scenario
 
 <div class="demo" align="center">
-	<img src="/assets/demo.gif" alt="hkust" width="90%">
+	<img src="/assets/demo1.gif" alt="hkust" width="90%">
 </div>
 
 <div class="ui" align="center">
