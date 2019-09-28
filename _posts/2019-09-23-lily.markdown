@@ -47,6 +47,12 @@ Affectionate communication, the conveyance of closeness, care, and fondness for 
 
 <br>
 
+<div class="demo" align="center">
+	<img src="/assets/demo_lily.gif" alt="hkust" width="80%">
+</div>
+
+<br>
+
 ## UI & Framework
 
 <div class="ui" align="center">
@@ -66,10 +72,6 @@ The overview of our system framework. (a) Once a user receives a message(M<sub>1
 <br>
 
 ## Demo usage scenario
-
-<div class="demo" align="center">
-	<img src="/assets/demo_lily.gif" alt="hkust" width="80%">
-</div>
 
 <div class="ui" align="center">
 	<img src="/assets/example.png" alt="example" width="80%">
