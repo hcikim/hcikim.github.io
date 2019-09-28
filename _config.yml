@@ -13,7 +13,10 @@ plainwhite:
   name: Taewook KIM
   tagline: Curriculum Vitae
   date_format: "%b %-d, %Y"
+  analytics_id: UA-123511119-1
+  # g-analytics: UA-123511119-1
   sitemap: true # set to true to generate sitemap.xml content
+
 
   # generate social links in footer
   social_links:
