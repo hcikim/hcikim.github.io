@@ -7,6 +7,7 @@ categories: CSCW2019
 
 <div class="logos" align="center">
 	<div class="logo">
+		<br>
 		<img src="/assets/hkust.png" alt="hkust" width="50%">
 	</div>
 </div>
@@ -46,7 +47,7 @@ Affectionate communication, the conveyance of closeness, care, and fondness for 
 
 <br>
 
-## The framework & User Interface of Lily
+## UI & Framework
 
 <div class="ui" align="center">
 	<img src="/assets/ui.png" alt="lily" width="80%">
