@@ -8,7 +8,7 @@ categories: CSCW2019
 <div class="logos" align="center">
 	<div class="logo">
 		<br>
-		<img src="/assets/hkust.png" alt="hkust" width="50%">
+			<img src="/assets/hkust.png" alt="hkust" width="50%">
 	</div>
 </div>
 
