@@ -4,4 +4,29 @@
 <link href="https://fonts.googleapis.com/css?family=Merriweather:300|Raleway:400,700" rel="stylesheet">
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 <title>{{ page.title | default: site.title }}</title>
+
+{% if page.url contains "lily.html" %}
+<!-- Primary Meta Tags -->
+<title>Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</title>
+<meta name="title" content="Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging">
+<meta name="description" content="Taewook KIM | HCI">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://hcikim.github.io/project_lily.html">
+<meta property="og:title" content="Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging">
+<meta property="og:description" content="Taewook KIM | HCI">
+<meta property="og:image" content="">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://hcikim.github.io/project_lily.html">
+<meta property="twitter:title" content="Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging">
+<meta property="twitter:description" content="Taewook KIM | HCI">
+<meta property="twitter:image" content="">
+
+{% else %}
+
 {% seo %}
+
+{%- endif -%}
