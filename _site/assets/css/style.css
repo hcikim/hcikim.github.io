@@ -650,7 +650,7 @@ main {
       main .about .tagline:hover {
         text-decoration: underline; }
     main .about img {
-      max-width: 220px; }
+      max-width: 200px; }
 
 .social {
   list-style-type: none;
