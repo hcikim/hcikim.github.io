@@ -1,68 +1,11 @@
 ---
 layout: default
 ---
-<!-- {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%} -->
-<div class="post-container">
-  <!-- <a class="post-link" href="{{ page.url | relative_url }}"> -->
-    <h2 class="post-title">{{ page.title | escape }}</h2>
-  <!-- </a> -->
-  <div class="post-meta">
-    <ul class="post-categories">
-      {%- for tag in page.categories -%}
-      <li>{{ tag }}</li>
-      {%- endfor -%}
-    </ul>
-    <!-- <div class="post-date"><i class="icon-calendar"></i>{{ page.date | date: date_format }}</div> -->
-  </div>
-  <div class="post">
-    {{ content }}
+<br>
+<br>
+{% include post/title.html %}
 
-    {% if page.content contains "code" %}
-    <script>
-    function copyfunc() {
-      var copyText = document.getElementsByClassName("highlight")[0].innerText;
+{% include post/splash_image.html %}
 
-      var dummy = document.createElement("input");
-      // Add it to the document
-      document.body.appendChild(dummy);
-      // Set its ID
-      dummy.setAttribute("id", "dummy_id");
-      // Output the array into it
-      document.getElementById("dummy_id").value = copyText;
-      // Select it
-      dummy.select();
-      // Copy its contents
-      document.execCommand("copy");
-      // Remove it as its not needed anymore
-      document.body.removeChild(dummy);
-
-      document.getElementById("copy").innerText = "Copied!";
-      // document.innerText = "Copied!";
-    }
-
-    function openWin() {
-      window.open("https://hcikim.github.io/assets/CSCW_Lily.pdf");
-    }
-
-    </script>
-    {% endif %}
-
-  </div>
-  {%- if site.plainwhite.disqus_shortname -%}
-  <div id="disqus_thread" style="margin-top:25px"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-    };
-    (function () {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://{{ site.plainwhite.disqus_shortname }}.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments
-      powered by Disqus.</a></noscript>
-</div>
-{%- endif -%}
+<br>
+{{ content }}

@@ -1,0 +1,24 @@
+---
+layout: page
+title: Publications
+subtitle: selected publications in reversed chronological order
+description: Taewook Kim publications page
+permalink: /publications
+sitemap:
+  priority: 0.9
+---
+{% for publication in site.publications %}   
+    {% unless publication.listed == false %}
+        {% if publication.pin %}
+            {% include publication/publication_card.html %}
+        {% endif %}
+    {% endunless %}   
+{% endfor %}
+
+{% for publication in site.publications %}   
+    {% unless publication.listed == false %}
+        {% if publication.pin != true %}
+            {% include publication/publication_card.html %}
+        {% endif %}
+    {% endunless %}   
+{% endfor %}
