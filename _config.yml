@@ -2,7 +2,7 @@ title: Taewook Kim # Shown in header on pages with full_logo: true
 short_logo: Taewook Kim # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   TSB PhD Student
-url: "https://hcikim.github.io/" # Site base URL
+url: "https://hcikim.github.io" # Site base URL
 
 author:
   name: Taewook Kim
