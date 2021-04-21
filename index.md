@@ -21,16 +21,20 @@ He earned his M.Phil. from <a href="https://hkust.edu.hk/home" target="_blank">H
 		<table class="table table-sm table-borderless">
 			<tbody>
 			<tr>
+				<th scope="row">Apr 2021</th>
+				<td>Successfully submitted one paper to <a href="https://cscw.acm.org/2021/" target="_blank">CSCW 2021</a> April cycle!</td>
+			</tr>
+			<tr>
 				<th scope="row">Mar 2021</th>
 				<td>Accepted <a href="https://northwestern.edu/" target="_blank">Northwestern</a>'s Ph.D. admission offer!</td>
 			</tr>
 			<tr>
 				<th scope="row">Jan 2021</th>
-				<td>Joined <a href="https://www.kixlab.org/" target="_blank">KIXLAB</a> as a researcher!</td>
+				<td>Excited to join <a href="https://www.kixlab.org/" target="_blank">KIXLAB</a> as a researcher!</td>
 			</tr>
 			<tr>
 				<th scope="row">Dec 2020</th>
-				<td>Completed submitting multiple Ph.D. applications!</td>
+				<td>Successfully submitted multiple Ph.D. applications!</td>
 			</tr>
 			</tbody>
 		</table>
