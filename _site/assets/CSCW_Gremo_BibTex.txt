@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3311957.3359472,
+author = {Peng, Zhenhui and Kim, Taewook and Ma, Xiaojuan},
+title = {GremoBot: Exploring Emotion Regulation in Group Chat},
+year = {2019},
+isbn = {9781450366922},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3311957.3359472},
+doi = {10.1145/3311957.3359472},
+abstract = {Maintaining a positive group emotion is important for team collaboration. It is, however, a challenging task for self-managing teams especially when they conduct intra-group collaboration via text-based communication tools. Recent advances in AI technologies open the opportunity of using chatbots for emotion regulation in group chat. However, little is known about how to design such a chatbot and how group members react to its presence. As an initial exploration, we design GremoBot based on text analysis technology and emotion regulation literature. We then conduct a study with nine three-person teams performing different types of collective tasks. In general, participants find GremoBot useful for reinforcing positive feelings and steering them away from negative words. We further discuss the lessons learned and considerations derived for designing a chatbot for group emotion management.},
+booktitle = {Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing},
+pages = {335–340},
+numpages = {6},
+keywords = {text communication, emotion regulation, collaboration, group chat},
+location = {Austin, TX, USA},
+series = {CSCW '19}
+}
