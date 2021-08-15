@@ -22,7 +22,7 @@ Before joining Northwestern, he used to work with <a href="https://www.cse.ust.h
 			<tbody>
 			<tr>
 				<th scope="row">Aug 2021</th>
-				<td><a href="">Improving Readers’ Awareness of Divergent Viewpoints</a>, a poster paper is accepted to <a href="https://cscw.acm.org/2021/" target="_blank">CSCW 2021</a>!</td>
+				<td><a href="../assets/CSCW_Hagendas.pdf">Improving Readers’ Awareness of Divergent Viewpoints</a>, a poster paper is accepted to <a href="https://cscw.acm.org/2021/" target="_blank">CSCW 2021</a>!</td>
 			</tr>
 			<tr>
 				<th scope="row">Apr 2021</th>
