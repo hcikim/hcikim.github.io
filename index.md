@@ -8,11 +8,11 @@ sitemap:
   priority: 1.0
 ---
 <p id="describe-text">About</p>
-Taewook Kim is a full time researcher, working with <a href="https://juhokim.com/index.html" target="_blank">Dr. Juho Kim</a> at <a href="https://www.kixlab.org/" target="_blank">KAIST Interaction Lab (KIXLAB)</a>. He will be joining <a href="https://northwestern.edu/" target="_blank">Northwestern University</a> this fall as a Ph.D. student in <a href="https://tsb.northwestern.edu/" target="_blank">Technology and Social Behavior (TSB)</a>, a joint Ph.D. program in Computer Science and Communication Studies.<br>
+Taewook Kim is an incoming Ph.D. student in <a href="https://tsb.northwestern.edu/" target="_blank">Technology and Social Behavior (TSB)</a>, a joint Ph.D. program in Computer Science and Communication Studies at <a href="https://northwestern.edu/" target="_blank">Northwestern University</a>. He will be working with <a href="http://www.mjskay.com/" target="_blank">Dr. Matthew Kay</a> at <a href="https://mucollective.northwestern.edu/" target="_blank">MU Collective</a>.
 
 His research in human-computer interaction focuses on <b>communication</b>, <b>conversation</b>, and <b>dialogue</b>. Fundamentally, he probes the following research question -- <i><b>"How can we design technology to help people nicer to each other?"</b></i> He pursues system-building research. He enjoys designing and implementing interactive systems that <b>offload users' cognitive and emotional burden in communication</b> with computational techniques, either by paraphrasing the past content or recommending future actions.<br>
 
-He earned his M.Phil. from <a href="https://hkust.edu.hk/home" target="_blank">HKUST</a> in 2020 and B.S. from <a href="https://www.hanyang.ac.kr/web/eng" target="_blank">Hanyang University</a> in 2018, respectively.
+Before joining Northwestern, he used to work with <a href="https://www.cse.ust.hk/~mxj/" target="_blank">Dr. Xiaojuan Ma</a> and <a href="https://juhokim.com/index.html" target="_blank">Dr. Juho Kim</a>. He earned his M.Phil. from <a href="https://hkust.edu.hk/home" target="_blank">HKUST</a> in 2020 and B.S. from <a href="https://www.hanyang.ac.kr/web/eng" target="_blank">Hanyang University</a> in 2018, respectively.
 
 <br>
 <div class="news">
@@ -20,6 +20,10 @@ He earned his M.Phil. from <a href="https://hkust.edu.hk/home" target="_blank">H
 	<div class="table-responsive">
 		<table class="table table-sm table-borderless">
 			<tbody>
+			<tr>
+				<th scope="row">Aug 2021</th>
+				<td><a href="">Improving Readers’ Awareness of Divergent Viewpoints</a>, a poster paper is accepted to <a href="https://cscw.acm.org/2021/" target="_blank">CSCW 2021</a>!</td>
+			</tr>
 			<tr>
 				<th scope="row">Apr 2021</th>
 				<td>Successfully submitted one paper to <a href="https://cscw.acm.org/2021/" target="_blank">CSCW 2021</a> April cycle!</td>
@@ -58,6 +62,9 @@ Ziming Wu, Zhida Sun, <b><u>Taewook Kim</u></b>, Manuele Reani, Caroline Jay, an
 <i>CSCW 2018.</i> | <a href="https://doi.org/10.1145/3274456" target="_blank">ACM DL</a> | <a href="../assets/CSCW_IFIL_BibTex.txt" target="_blank">BibTeX</a>
 
 <h7><b><i>Poster and Workshop Papers</i></b></h7>
+
+[p.2] <a href="../assets/CSCW_Hagendas.pdf" target="_blank">Improving Readers' Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions</a><br> <b><u>Taewook Kim</u></b>, Hyunwoo Kim, Juho Kim, and Xiaojuan Ma<br>
+<i>CSCW 2021.</i> | <a href="https://doi.org/10.1145/3462204.3481761" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Hagendas_BibTex.txt" target="_blank">BibTeX</a>
 
 [p.1] <a href="../assets/CSCW_GremoBot.pdf" target="_blank">GremoBot: Exploring Emotion Regulation in Group Chat</a><br>
 Zhenhui Peng, <b><u>Taewook Kim</u></b>, and Xiaojuan Ma<br>

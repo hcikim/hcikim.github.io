@@ -1,0 +1,16 @@
+@inproceedings{10.1145/3462204.3481761,
+author = {Kim, Taewook and Kim, Hyunwoo and Kim, Juho and Ma, Xiaojuan},
+title = {GremoBot: Exploring Emotion Regulation in Group Chat},
+year = {2021},
+isbn = {9781450384797},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3462204.3481761},
+doi = {10.1145/3462204.3481761},
+booktitle = {Conference Companion Publication of the 2021 on Computer Supported Cooperative Work and Social Computing},
+pages = {},
+numpages = {7},
+keywords = {Agendas; Divergent; Discussions; Online news discussions; Social media},
+location = {Virtual Event, USA},
+series = {CSCW '21}
+}
