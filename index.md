@@ -8,7 +8,7 @@ sitemap:
   priority: 1.0
 ---
 <p id="describe-text">About</p>
-Taewook Kim is an incoming Ph.D. student in <a href="https://tsb.northwestern.edu/" target="_blank">Technology and Social Behavior (TSB)</a>, a joint Ph.D. program in Computer Science and Communication Studies at <a href="https://northwestern.edu/" target="_blank">Northwestern University</a>. He will be working with <a href="http://www.mjskay.com/" target="_blank">Dr. Matthew Kay</a> at <a href="https://mucollective.northwestern.edu/" target="_blank">MU Collective</a>.
+Taewook Kim is a Ph.D. student in <a href="https://tsb.northwestern.edu/" target="_blank">Technology and Social Behavior (TSB)</a>, a joint Ph.D. program in Computer Science and Communication Studies at <a href="https://northwestern.edu/" target="_blank">Northwestern University</a>. He will be working with <a href="http://www.mjskay.com/" target="_blank">Dr. Matthew Kay</a> at <a href="https://mucollective.northwestern.edu/" target="_blank">MU Collective</a>.
 
 His research in human-computer interaction focuses on <b>communication</b>, <b>conversation</b>, and <b>dialogue</b>. Fundamentally, he probes the following research question -- <i><b>"How can we design technology to help people nicer to each other?"</b></i> He pursues system-building research. He enjoys designing and implementing interactive systems that <b>offload users' cognitive and emotional burden in communication</b> with computational techniques, either by paraphrasing the past content or recommending future actions.<br>
 
