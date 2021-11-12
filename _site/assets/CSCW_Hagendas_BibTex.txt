@@ -1,6 +1,6 @@
 @inproceedings{10.1145/3462204.3481761,
 author = {Kim, Taewook and Kim, Hyunwoo and Kim, Juho and Ma, Xiaojuan},
-title = {GremoBot: Exploring Emotion Regulation in Group Chat},
+title = {Improving Readers' Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions},
 year = {2021},
 isbn = {9781450384797},
 publisher = {Association for Computing Machinery},

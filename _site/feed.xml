@@ -12,7 +12,7 @@
 		<sy:updateFrequency>1</sy:updateFrequency>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 04 Feb 2021 00:00:00 -0600</lastBuildDate>
 		
 		
             
@@ -90,7 +90,7 @@
 &lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 </description>
-                    <pubDate>Thu, 04 Feb 2021 00:00:00 +0900</pubDate>
+                    <pubDate>Thu, 04 Feb 2021 00:00:00 -0600</pubDate>
                     <link>http://localhost:4000/2021/02/04/styles.html</link>
                     <guid isPermaLink="true">http://localhost:4000/2021/02/04/styles.html</guid>
                 </item>
@@ -106,7 +106,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
 </description>
-                    <pubDate>Fri, 25 Dec 2020 00:00:00 +0900</pubDate>
+                    <pubDate>Fri, 25 Dec 2020 00:00:00 -0600</pubDate>
                     <link>http://localhost:4000/2020/12/25/long-title.html</link>
                     <guid isPermaLink="true">http://localhost:4000/2020/12/25/long-title.html</guid>
                 </item>
@@ -239,7 +239,7 @@
 &lt;h2 id=&quot;questions-and-comments&quot;&gt;Questions and Comments&lt;/h2&gt;
 &lt;p&gt;Feel free to open a new issue on &lt;a href=&quot;https://github.com/ritijjain/pudhina-fresh/issues&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; for questions and comments regarding Pudhina Fresh theme.&lt;/p&gt;
 </description>
-                    <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
+                    <pubDate>Wed, 01 Jul 2020 00:00:00 -0500</pubDate>
                     <link>http://localhost:4000/2020/07/01/docs.html</link>
                     <guid isPermaLink="true">http://localhost:4000/2020/07/01/docs.html</guid>
                 </item>
@@ -255,7 +255,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
 </description>
-                    <pubDate>Thu, 02 Apr 2020 00:00:00 +0900</pubDate>
+                    <pubDate>Thu, 02 Apr 2020 00:00:00 -0500</pubDate>
                     <link>http://localhost:4000/2020/04/02/sample.html</link>
                     <guid isPermaLink="true">http://localhost:4000/2020/04/02/sample.html</guid>
                 </item>
@@ -267,7 +267,7 @@
                     
                         <description>&lt;p&gt;This post was originally posted on 2020-04-02 but updated on 2020-12-25 so this information is shown in the post meta.&lt;/p&gt;
 </description>
-                    <pubDate>Wed, 01 Apr 2020 00:00:00 +0900</pubDate>
+                    <pubDate>Wed, 01 Apr 2020 00:00:00 -0500</pubDate>
                     <link>http://localhost:4000/2020/04/01/updated.html</link>
                     <guid isPermaLink="true">http://localhost:4000/2020/04/01/updated.html</guid>
                 </item>
