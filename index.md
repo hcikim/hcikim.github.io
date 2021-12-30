@@ -4,7 +4,7 @@ layout: default
 
 I am Taewook [teug] Kim, a first year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">CS</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication Studies</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I am interested in supporting healthcare providers' mental health. I design, build, and evaluate systems. Broadly, I enjoy leveraging NLP/ML tools to help people share affirmative emotions.
+I am interested in supporting caregivers' mental health. I design, build, and evaluate systems. Broadly, I enjoy leveraging NLP/ML tools to help people share affirmative emotions.
 
 
 ## News
