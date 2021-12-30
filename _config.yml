@@ -1,52 +1,15 @@
-title: Taewook Kim # Shown in header on pages with full_logo: true
-short_logo: Taewook Kim # Shown in header on all pages by default unless full_logo: true is set
-description: > # The description for your site
-  TSB PhD Student
-url: "https://hcikim.github.io" # Site base URL
+title: Taewook Kim
+logo: /assets/img/taewook_torso.jpg
+email: Northwestern University
+# description: 
+show_downloads: false
+google_analytics: UA-123511119-1
+# theme: jekyll-theme-minimalist
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
 
-author:
-  name: Taewook Kim
-  github: hcikim # GitHub username, used for GitHub icon on the top right
-  linkedin: taewook-kim-33595b16b/ # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: https://mailhide.io/e/rACA5ywK # Used for email icon on the top right
-  homepage: https://hcikim.github.io/ # This links to your name in post meta
-  twitter: taewook_cs # Twitter username, used for Twitter Card Analytics 
-  instagram: taewook.cs
-
-disqus_name: # Setting this will turn on Disqus comments
-g_track_id: UA-123511119-1 # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
-
-markdown: kramdown
-
-defaults: # Recommended defaults, you may set your own
-  -
-    scope:
-      path: _posts
-    values:
-      comments: true
-  -
-    scope:
-      path: pages/redirects
-    values:
-      layout: redirect
-      index: false
-      listed: false
-  -
-    scope:
-      path: pages/tags
-    values:
-      layout: tag
-      sitemap:
-        priority: 0.4
-
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: true
-  profile: false
-  startings: [html, head, body]
-
-rss: false # RSS feed icon on or off
+remote_theme: BDHU/minimalist
