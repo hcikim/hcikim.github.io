@@ -83,4 +83,4 @@ numpages = {5}
 	}
 </script>
 
-[back](./)
+[◀︎ back](./)

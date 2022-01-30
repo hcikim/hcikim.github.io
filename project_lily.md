@@ -106,4 +106,4 @@ keywords = {text messaging, lyrics, recommendation, affectionate communication, 
 	}
 </script>
 
-[back](./)
+[◀︎ back](./)
