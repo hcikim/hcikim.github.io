@@ -1,0 +1,98 @@
+I"�<h1 id="love-in-lyrics-an-exploration-of-supporting-textual-manifestation-of-affection-in-social-messaging">Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</h1>
+
+<!-- _yay_ -->
+
+<div class="authorlists" align="center">
+	<div class="author">
+		<img src="/assets/tommy.png" alt="taewook" />
+		<div class="authorname">
+			<a href="http://hcikim.github.io/" target="_blank">Taewook Kim<br /></a>HKUST
+		</div>
+	</div>
+	<div class="author">
+		<img src="/assets/Jungsoo.png" alt="jungsoo" />
+		<div class="authorname">Jung Soo Lee<br />Korea University
+		</div>
+	</div>
+	<div class="author">
+		<img src="/assets/zhenhui.png" alt="zhenhui" />
+		<div class="authorname">
+			<a href="https://penguinzhou.github.io/about.html" target="_blank">Zhenhui Peng<br /></a>HKUST
+		</div>
+	</div>
+	<div class="author">
+		<img src="/assets/mxj.png" alt="mxj" />
+		<div class="authorname">
+			<a href="https://www.cse.ust.hk/~mxj/" target="_blank">Xiaojuan Ma<br /></a>HKUST
+		</div>
+	</div>
+</div>
+
+<p><br /></p>
+<div class="demo" align="center">
+	<img src="./assets/lily_demo.gif" width="90%" />
+</div>
+<p><br /></p>
+
+<h3 id="abstract">Abstract</h3>
+
+<p>Affectionate communication, the conveyance of closeness, care, and fondness for another, plays a key role in romantic relationships. While the pervasive use of digital technology for communication limits affectionate interaction through nonverbal cues – a major channel of expression in face-to-face settings, there have been few approaches which scaffold couples’ romantic text conversations. To bridge this gap, we propose a novel interactive system Lily which gives users inspirations to enrich their romantic expressions in text messaging. It first listens to users’ original input and then recommends romantic lyrics holding the closest meaning in real-time during chats with partners. After a three-day empirical study, participants who are real-life couples reported that they not only received useful cues from Lily in terms of how to polish their affectionate expressions, but also learnt to enrich the conversation with topics enlightened by its recommendations. Based on our findings, we finally provide several design considerations for actual deployment of such an application.</p>
+
+<p><br /></p>
+
+<h3 id="ui--framework">UI &amp; Framework</h3>
+
+<div class="ui" align="center">
+	<img src="./assets/lily_ui.png" width="90%" />
+</div>
+
+<p>(A) is the initial user interface of our system. It shows where the recommendations would appear by displaying three blank oval shapes. (B) shows users’ typing input and three recommended lines of romantic song lyrics. (C) shows the randomized results of our system. Even if users type the same words, it will not always return the exact same lines.</p>
+
+<p><br /></p>
+
+<div class="ui" align="center">
+	<img src="./assets/lily_framework.png" width="90%" />
+</div>
+
+<p>The overview of our system framework. (a) Once a user receives a message(M<sub>1</sub>) from his/her partner, (b) the user types some phrases(<em>r<sub>1</sub></em>) to reply in the input line. (c) Then the system reads the phrases(<em>r<sub>1</sub></em>). (d) The system then returns three corresponding lines(<em>l<sub>1</sub>, l<sub>2</sub>, l<sub>3</sub></em>) of lyrics. (e) The lines(<em>l<sub>1</sub>, l<sub>2</sub>, l<sub>3</sub></em>) are presented on the chat UI so that (f) the user can refer to them(<em>l<sub>1</sub>, l<sub>2</sub>, l<sub>3</sub></em>) to refine their response(<em>R<sub>1</sub></em>) before sending it.</p>
+
+<p><br /></p>
+
+<h3 id="usage-example">Usage example</h3>
+
+<div class="ui" align="center">
+	<img src="/assets/lily_example.png" width="90%" />
+</div>
+
+<p>P3 and P4 are in a relationship. On the second day of the experiment, P4 asked P3 a question during the chat, <em>‘Which one do you prefer? short hair or long hair?’</em>. In the context of typing a response to the this question, P3 was inspired by the recommendations provided. The figure illustrates the whole process which P3 followed to enrich his response.</p>
+
+<p><br /></p>
+
+<h3 id="bibtex">BibTeX</h3>
+
+<p><button onclick="openWin()">Camera-Ready (PDF)</button>
+<button onclick="copyfunc()" id="copy">Copy to Clipboard</button></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{10.1145/3359181,
+author = {Kim, Taewook and Lee, Jung Soo and Peng, Zhenhui and Ma, Xiaojuan},
+title = {Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging},
+year = {2019},
+issue_date = {November 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {CSCW},
+url = {https://doi.org/10.1145/3359181},
+doi = {10.1145/3359181},
+journal = {Proc. ACM Hum.-Comput. Interact.},
+month = {nov},
+articleno = {79},
+numpages = {27},
+keywords = {text messaging, lyrics, recommendation, affectionate communication, interpersonal communication, expression}
+}
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p><a href="./">back</a></p>
+:ET

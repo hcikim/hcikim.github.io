@@ -1,0 +1,85 @@
+{% case site.color-scheme %}
+  {% when "", nil, false, 0, empty %}
+    {% assign ColorScheme = "auto" %}
+  {% else %}
+    {% assign ColorScheme = site.color-scheme %}
+{% endcase %}
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link rel="preload" href="{{site.logo | relative_url}}" as="image">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <style>
+    .authorlists img {
+      width: 120px;
+      height: 120px;
+      border-radius: 120px;
+      margin-bottom: 10px;
+    }
+
+    .logo {
+      display: inline-block;
+      padding-bottom: 20px;
+    }
+
+    .author {
+      display: inline-block;
+      margin-top: 30px;
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-bottom: 30px;
+    }
+
+    .ui {
+      margin-top: 20px;
+      padding-bottom: 10px;
+    }
+  </style>
+  <body>
+    <div class="wrapper">
+      <!-- <section> -->
+
+      {{ content }}
+
+      <!-- </section> -->
+    </div>
+    <script>
+      function copyfunc() {
+        var copyText = document.getElementsByClassName("highlight")[0].innerText;
+        var dummy = document.createElement("input");
+        // Add it to the document
+        document.body.appendChild(dummy);
+        // Set its ID
+        dummy.setAttribute("id", "dummy_id");
+        // Output the array into it
+        document.getElementById("dummy_id").value = copyText;
+        // Select it
+        dummy.select();
+        // Copy its contents
+        document.execCommand("copy");
+        // Remove it as its not needed anymore
+        document.body.removeChild(dummy);
+
+        document.getElementById("copy").innerText = "Copied!";
+        // document.innerText = "Copied!";
+      }
+    </script>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+  </body>
+</html>

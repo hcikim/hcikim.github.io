@@ -21,7 +21,7 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 
 [c.3] <a href="../assets/CSCW_Lily.pdf" target="_blank">Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</a><br>
 <b>Taewook Kim</b>, Jungsoo Lee, Zhenhui Peng, and Xiaojuan Ma<br>
-<i>CSCW 2019.</i> | <a href="https://doi.org/10.1145/3359181" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Lily_BibTex.txt" target="_blank">BibTeX</a>
+<i>CSCW 2019.</i> | <a href="https://doi.org/10.1145/3359181" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Lily_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_lily.html" target="_blank">▶︎ Project Website</a>
 
 [c.2] <a href="../assets/CHI_UI.pdf" target="_blank">Understanding and Modeling User-Perceived Brand Personality from Mobile Application UIs</a><br>
 Ziming Wu, <b>Taewook Kim</b>, Quan Li, and Xiaojuan Ma<br>
@@ -34,7 +34,7 @@ Ziming Wu, Zhida Sun, <b>Taewook Kim</b>, Manuele Reani, Caroline Jay, and Xiaoj
 <b><i>Referred Research Posters</i></b>
 
 [p.2] <a href="../assets/CSCW_Hagendas.pdf" target="_blank">Improving Readers' Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions</a><br> <b>Taewook Kim</b>, Hyunwoo Kim, Juho Kim, and Xiaojuan Ma<br>
-<i>CSCW 2021.</i> | <a href="https://doi.org/10.1145/3462204.3481761" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Hagendas_BibTex.txt" target="_blank">BibTeX</a>
+<i>CSCW 2021.</i> | <a href="https://doi.org/10.1145/3462204.3481761" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Hagendas_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_hagendas.html" target="_blank">▶︎ Project Website</a>
 
 [p.1] <a href="../assets/CSCW_GremoBot.pdf" target="_blank">GremoBot: Exploring Emotion Regulation in Group Chat</a><br>
 Zhenhui Peng, <b>Taewook Kim</b>, and Xiaojuan Ma<br>
@@ -43,4 +43,4 @@ Zhenhui Peng, <b>Taewook Kim</b>, and Xiaojuan Ma<br>
 
 ## Miscellaneous
 
-I enjoy running marathons 🏃🏻 and gym workouts 🏋🏻.
+In my free time, I run marathons 🏃🏻 and enjoy gym workouts 🏋🏻 for fun.
