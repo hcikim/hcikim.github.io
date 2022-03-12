@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am Taewook [teug] Kim, a first year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">CS</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication Studies</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
+I am Taewook [teug] Kim, a first year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication Studies</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a> and <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/jacobs-maia.html" target="_blank">Maia Jacobs</a>.
 
 
 I am interested in leveraging NLP/ML tools to help people share affirmative emotions. I design, build, and evaluate systems. Recently, I am working on designing systems for supporting the mental health of caregivers of a person with dementia.
