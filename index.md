@@ -10,6 +10,7 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 
 ## News
 
+| Mar 2022  |  🥳 Yay!!! One paper is accpeted to L@S 2022 |
 | Feb 2022  |  ✈️ I will be attending in-person CHI 2022 as a Student Volunteer |
 | Jan 2022  |  🏅 Received Special Recognitions for Outstanding Reviews (CHI 2022) |
 | Jan 2022  |  🙌🏻 Happy New Year! |
@@ -19,6 +20,7 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 ## Publications
 
 <b><i>Referred Conference Proceedings and Journal Articles</i></b>
+
 
 [c.3] <a href="../assets/CSCW_Lily.pdf" target="_blank">Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</a><br>
 <b>Taewook Kim</b>, Jungsoo Lee, Zhenhui Peng, and Xiaojuan Ma<br>
