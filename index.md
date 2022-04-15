@@ -10,9 +10,10 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 
 ## News
 
+| Apr 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '22 |
 | Mar 2022  |  🥳 Yay!!! One paper is accpeted to L@S 2022 |
 | Feb 2022  |  ✈️ I will be attending in-person CHI 2022 as a Student Volunteer |
-| Jan 2022  |  🏅 Received Special Recognitions for Outstanding Reviews (CHI 2022) |
+| Jan 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '22 |
 | Jan 2022  |  🙌🏻 Happy New Year! |
 | Dec 2021  |  ✈️ Visited to Korea |
 
