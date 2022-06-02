@@ -23,9 +23,9 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 <b><i>Referred Conference Proceedings and Journal Articles</i></b>
 
 
-[c.4] <a>RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
+[c.4] <a href="../assets/LatS_RLens.pdf" target="_blank">RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
 Meng Xia, Yankun Zhao, Jihyeong Hong, Mehmet Hamza Erol, <b>Taewook Kim</b>, Juho Kim<br>
-<i>L@S 2022.</i> | <a>ACM DL</a> | <a>BibTeX</a>
+<i>L@S 2022.</i> | <a href="https://dl.acm.org/doi/10.1145/3491140.3528264" target="_blank">ACM DL</a> | <a href="../assets/LatS_RLens_BibTex.txt" target="_blank">BibTeX</a>
 
 [c.3] <a href="../assets/CSCW_Lily.pdf" target="_blank">Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</a><br>
 <b>Taewook Kim</b>, Jungsoo Lee, Zhenhui Peng, and Xiaojuan Ma<br>

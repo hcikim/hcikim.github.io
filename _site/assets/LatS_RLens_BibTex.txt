@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3491140.3528264,
+author = {Xia, Meng and Zhao, Yankun and Hong, Jihyeong and Erol, Mehmet Hamza and Kim, Taewook and Kim, Juho},
+title = {RLens: A Computer-Aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship},
+year = {2022},
+isbn = {9781450391580},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3491140.3528264},
+doi = {10.1145/3491140.3528264},
+abstract = {With the rise of the gig economy, online language tutoring platforms are becoming increasingly popular. These platforms provide temporary and flexible jobs for native speakers as tutors and allow language learners to have one-on-one speaking practices on demand, on which learners occasionally practice the language with different tutors. With such distributed tutorship, learners can hold flexible schedules and receive diverse feedback. However, learners face challenges in consistently tracking their learning progress because different tutors provide feedback from diverse standards and perspectives, and hardly refer to learners' previous experiences with other tutors. We present RLens, a visualization system for facilitating learners' learning progress reflection by grouping different tutors' feedback, tracking how each feedback type has been addressed across learning sessions, and visualizing the learning progress. We validate our design through a between-subjects study with 40 real-world learners. Results show that learners can successfully analyze their progress and common language issues under distributed tutorship with RLens, while most learners using the baseline interface had difficulty achieving reflection tasks. We further discuss design considerations of computer-aided systems for supporting learning under distributed tutorship.},
+booktitle = {Proceedings of the Ninth ACM Conference on Learning @ Scale},
+pages = {60–71},
+numpages = {12},
+keywords = {tutoring system, learning reflection, language learning, distributed tutorship, learning progress visualization},
+location = {New York City, NY, USA},
+series = {L@S '22}
+}
