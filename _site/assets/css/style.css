@@ -156,7 +156,7 @@ h2 { color: var(--clr-h2); }
 
 h3, h4, h5, h6 { color: var(--clr-h-3-6); }
 
-a { color: #506e86; text-decoration: none; }
+a { color: #95b0aa; text-decoration: none; }
 
 a:hover, a:focus { color: #4E2A84; text-decoration: underline; }
 
