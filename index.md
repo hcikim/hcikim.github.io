@@ -10,9 +10,10 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 
 ## News
 
+| Jul 2022  |  🥳 Yay!!! One poster paper is accepted to CSCW '22 |
 | Jun 2022  |  ✈️ Visited to Korea |
 | Apr 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '22 |
-| Mar 2022  |  🥳 Yay!!! One paper is accepted to L@S 2022 |
+| Mar 2022  |  🥳 Yay!!! One paper is accepted to L@S '22 |
 | Feb 2022  |  ✈️ I will be attending in-person CHI 2022 as a Student Volunteer |
 | Jan 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '22 |
 | Jan 2022  |  🙌🏻 Happy New Year! |
@@ -41,6 +42,10 @@ Ziming Wu, Zhida Sun, <b>Taewook Kim</b>, Manuele Reani, Caroline Jay, and Xiaoj
 <i>CSCW 2018.</i> | <a href="https://doi.org/10.1145/3274456" target="_blank">ACM DL</a> | <a href="../assets/CSCW_IFIL_BibTex.txt" target="_blank">BibTeX</a>
 
 <b><i>Referred Research Posters</i></b>
+
+[p.3] <a>Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration</a><br>
+<b>Taewook Kim</b>, Qingyu Guo, Hyeonjae Kim, Wenjie Yang, Meiziniu Li, Xiaojuan Ma<br>
+<i>CSCW 2022.</i> | <a>ACM DL</a> | <a>BibTeX</a> | <a>▶︎ Project Website</a>
 
 [p.2] <a href="../assets/CSCW_Hagendas.pdf" target="_blank">Improving Readers' Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions</a><br> <b>Taewook Kim</b>, Hyunwoo Kim, Juho Kim, and Xiaojuan Ma<br>
 <i>CSCW 2021.</i> | <a href="https://doi.org/10.1145/3462204.3481761" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Hagendas_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_hagendas.html" target="_blank">▶︎ Project Website</a>
