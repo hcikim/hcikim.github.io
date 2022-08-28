@@ -1,0 +1,16 @@
+@inproceedings{10.1145/3500868.3559441,
+author = {Kim, Taewook and Guo, Qingyu and Kim, Hyeonjae and Yang, Wenjie and Li, Meiziniu and Ma, Xiaojuan},
+title = {Facilitating Continuous Text Messaging in Online Romantic Encounters by Expanded Keywords Enumeration},
+year = {2022},
+isbn = {9781450391900},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3500868.3559441},
+doi = {10.1145/3500868.3559441},
+booktitle = {Conference Companion Publication of the 2022 on Computer Supported Cooperative Work and Social Computing},
+pages = {},
+numpages = {5},
+keywords = {Chatting, Interpersonal communication, Romantic relationships, Text messaging, Topic suggestion},
+location = {Virtual Event, Taiwan},
+series = {CSCW '22}
+}

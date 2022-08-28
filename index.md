@@ -7,6 +7,7 @@ I am Taewook [teug] Kim, a first year Ph.D. student in <a href="https://www.mcco
 
 I am interested in leveraging NLP/ML tools to help people share affirmative emotions. I design, build, and evaluate systems. Recently, I am working on designing systems for supporting the mental health of caregivers of a person with dementia.
 
+**I am looking for a research internship position for Summer 2023.**
 
 ## News
 
@@ -43,9 +44,9 @@ Ziming Wu, Zhida Sun, <b>Taewook Kim</b>, Manuele Reani, Caroline Jay, and Xiaoj
 
 <b><i>Referred Research Posters</i></b>
 
-[p.3] <a>Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration</a><br>
+[p.3] <a href="../assets/CSCW_Tomi.pdf" target="_blank">Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration</a><br>
 <b>Taewook Kim</b>, Qingyu Guo, Hyeonjae Kim, Wenjie Yang, Meiziniu Li, Xiaojuan Ma<br>
-<i>CSCW 2022.</i> | <a>ACM DL</a> | <a>BibTeX</a> | <a>▶︎ Project Website</a>
+<i>CSCW 2022.</i> | <a href="https://doi.org/10.1145/3500868.3559441" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Tomi_BibTex.txt" target="_blank">BibTeX</a>
 
 [p.2] <a href="../assets/CSCW_Hagendas.pdf" target="_blank">Improving Readers' Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions</a><br> <b>Taewook Kim</b>, Hyunwoo Kim, Juho Kim, and Xiaojuan Ma<br>
 <i>CSCW 2021.</i> | <a href="https://doi.org/10.1145/3462204.3481761" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Hagendas_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_hagendas.html" target="_blank">▶︎ Project Website</a>
