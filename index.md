@@ -11,6 +11,7 @@ I am interested in leveraging NLP/ML tools to help people share affirmative emot
 
 ## News
 
+| Sep 2022  |  🥳 Yay!!! Won the Northwestern Design Cluster Fellowship! |
 | Jul 2022  |  🥳 Yay!!! One poster paper is accepted to CSCW '22 |
 | Jun 2022  |  ✈️ Visited to Korea |
 | Apr 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '22 |
