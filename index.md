@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am Taewook [teug] Kim, a first year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication Studies</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
+I am Taewook [teug] Kim, a second year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
 
 I build systems to alleviate the impact of abusive language on people and to encourage people to share positive emotions such as love and empathy. I design systems, and study people. Recently, I explore how to design systems for supporting the mental health of caregivers of a person with dementia.
