@@ -47,6 +47,10 @@ Ziming Wu, Zhida Sun, <b>Taewook Kim</b>, Manuele Reani, Caroline Jay, and Xiaoj
 
 <b><i>Referred Research Posters</i></b>
 
+[p.4] <a href="../assets/GROUP_Communal.pdf" target="_blank">Opportunities to Support Communal Experiences of Deaf and Hard-of-Hearing People in Live Popular Music Concerts</a><br>
+Hyomin Han, <b>Taewook Kim</b><br>
+<i>GROUP 2022.</i> | <a>ACM DL</a> | <a>BibTeX</a>
+
 [p.3] <a href="../assets/CSCW_Tomi.pdf" target="_blank">Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration</a><br>
 <b>Taewook Kim</b>, Qingyu Guo, Hyeonjae Kim, Wenjie Yang, Meiziniu Li, Xiaojuan Ma<br>
 <i>CSCW 2022.</i> | <a href="https://doi.org/10.1145/3500868.3559441" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Tomi_BibTex.txt" target="_blank">BibTeX</a>
