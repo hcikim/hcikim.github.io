@@ -12,6 +12,7 @@ I build systems to alleviate the impact of abusive language on people and to enc
 
 ## News
 
+| Nov 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '23 |
 | Oct 2022  |  🥳 Yay!!! One poster paper is accepted to GROUP '22/23 |
 | Sep 2022  |  🥳 Yay!!! Won the Northwestern Design Cluster Fellowship! |
 | Jul 2022  |  🥳 Yay!!! One poster paper is accepted to CSCW '22 |
