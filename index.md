@@ -12,6 +12,7 @@ I build systems to alleviate the impact of abusive language on people and to enc
 
 ## News
 
+| Nov 2022  |  🥳 Yay!!! One workshop paper is accepted to CHI '23 |
 | Nov 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '23 |
 | Oct 2022  |  🥳 Yay!!! One poster paper is accepted to GROUP '22/23 |
 | Sep 2022  |  🥳 Yay!!! Won the Northwestern Design Cluster Fellowship! |
@@ -46,7 +47,11 @@ Ziming Wu, <b>Taewook Kim</b>, Quan Li, and Xiaojuan Ma<br>
 Ziming Wu, Zhida Sun, <b>Taewook Kim</b>, Manuele Reani, Caroline Jay, and Xiaojuan Ma<br>
 <i>CSCW 2018.</i> | <a href="https://doi.org/10.1145/3274456" target="_blank">ACM DL</a> | <a href="../assets/CSCW_IFIL_BibTex.txt" target="_blank">BibTeX</a>
 
-<b><i>Referred Research Posters</i></b>
+<b><i>Referred Extended Abstracts: Posters and Workshops</i></b>
+
+[p.5] <a>Rawal: A Reflection Assistant with Active Listening for Peer Support Chats</a><br>
+Ryan Louie, <b>Taewook Kim</b>, Zhenhui Peng<br>
+<i>CHI 2023 Workshop on Self-Reflection Technologies.</i> | <a>ACM DL</a> | <a>BibTeX</a>
 
 [p.4] <a href="../assets/GROUP_Communal.pdf" target="_blank">Opportunities to Support Communal Experiences of Deaf and Hard-of-Hearing People in Live Popular Music Concerts</a><br>
 Hyomin Han, <b>Taewook Kim</b><br>
