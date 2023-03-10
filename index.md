@@ -49,7 +49,7 @@ Ziming Wu, Zhida Sun, <b>Taewook Kim</b>, Manuele Reani, Caroline Jay, and Xiaoj
 
 <b><i>Referred Extended Abstracts: Posters and Workshops</i></b>
 
-[p.5] <a>Rawal: A Reflection Assistant with Active Listening for Peer Support Chats</a><br>
+[p.5] <a href="../assets/CHI_Rawal.pdf" target="_blank">Rawal: A Reflection Assistant with Active Listening for Peer Support Chats</a><br>
 Ryan Louie, <b>Taewook Kim</b>, Zhenhui Peng<br>
 <i>CHI 2023 Workshop on Self-Reflection Technologies.</i> | <a>ACM DL</a> | <a>BibTeX</a>
 
