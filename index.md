@@ -8,11 +8,7 @@ I am Taewook [teug] Kim, a second year Ph.D. student in <a href="https://www.mcc
 I build systems to alleviate the impact of abusive language on people and to encourage people to share positive emotions such as love and empathy. I design systems, and study people. Recently, I explore how to design systems for supporting the mental health of caregivers of a person with dementia.
 
 
-**I am looking for a research internship position for Summer 2023.**
-
-
 ## News
-
 
 | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
 | Nov 2022  |  🥳 Yay!!! One workshop paper is accepted to CHI '23 |
