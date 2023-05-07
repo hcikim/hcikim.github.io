@@ -10,20 +10,11 @@ I build systems to alleviate the impact of abusive language on people and to enc
 
 ## News
 
+| Apr 2023  |  🥳 Yay!! I won the Northwestern Advanced Cognitive Science Fellowship! |
 | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
 | Nov 2022  |  🥳 Yay!!! One workshop paper is accepted to CHI '23 |
 | Nov 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '23 |
 | Oct 2022  |  🥳 Yay!!! One poster paper is accepted to GROUP '22/23 |
-<!-- | Sep 2022  |  🥳 Yay!!! Won the Northwestern Design Cluster Fellowship! |
-| Jul 2022  |  🥳 Yay!!! One poster paper is accepted to CSCW '22 |
-| Jun 2022  |  ✈️ Visited Korea |
-| Apr 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '22 |
-| Mar 2022  |  🥳 Yay!!! One paper is accepted to L@S '22 |
-| Feb 2022  |  ✈️ I will be attending in-person CHI 2022 as a Student Volunteer |
-| Jan 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '22 |
-| Jan 2022  |  🙌🏻 Happy New Year! |
-| Dec 2021  |  ✈️ Visited Korea |
- -->
 
 ## Publications
 
