@@ -10,6 +10,7 @@ I build systems to alleviate the impact of abusive language on people and to enc
 
 ## News
 
+| Sep 2023  |  🥳 I'm thrilled that my dementia paper is accepted to CSCW '24 |
 | May 2023  |  🥳 Yay!! I passed CS PhD Qualification exam! |
 | Apr 2023  |  🥳 Yay!! I won the Northwestern Advanced Cognitive Science Fellowship! |
 | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
