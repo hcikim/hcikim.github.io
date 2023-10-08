@@ -2,10 +2,9 @@
 layout: default
 ---
 
-I am Taewook [teug] Kim, a second year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
+I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-
-I build systems to alleviate the impact of abusive language on people and to encourage people to share positive emotions such as love and empathy. I design systems, and study people. Recently, I explore how to design systems for supporting the mental health of caregivers of a person with dementia.
+I study the impact of language on well-being. My research aims to foster the use of beautiful language [c.3] and offer mental health support to those hurt by abusive language [c.5]. I build systems and study people.
 
 
 ## News
@@ -14,15 +13,16 @@ I build systems to alleviate the impact of abusive language on people and to enc
 | May 2023  |  🥳 Yay!! I passed CS PhD Qualification exam! |
 | Apr 2023  |  🥳 Yay!! I won the Northwestern Advanced Cognitive Science Fellowship! |
 | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
-| Nov 2022  |  🥳 Yay!!! One workshop paper is accepted to CHI '23 |
-| Nov 2022  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '23 |
-| Oct 2022  |  🥳 Yay!!! One poster paper is accepted to GROUP '22/23 |
 
 
 ## Publications
 
 <b><i>Referred Conference Proceedings and Journal Articles</i></b>
 
+
+[c.5] <a href="" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
+<b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
+<i>CSCW 2024.</i> | <a href="" target="_blank">ACM DL</a> | <a href="" target="_blank">BibTeX</a>
 
 [c.4] <a href="../assets/LatS_RLens.pdf" target="_blank">RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
 Meng Xia, Yankun Zhao, Jihyeong Hong, Mehmet Hamza Erol, <b>Taewook Kim</b>, Juho Kim<br>
@@ -48,7 +48,7 @@ Ryan Louie, <b>Taewook Kim</b>, Zhenhui Peng<br>
 
 [p.4] <a href="../assets/GROUP_Communal.pdf" target="_blank">Opportunities to Support Communal Experiences of Deaf and Hard-of-Hearing People in Live Popular Music Concerts</a><br>
 Hyomin Han, <b>Taewook Kim</b><br>
-<i>GROUP 2022.</i> | <a href="https://doi.org/10.1145/3565967.3570983" target="_blank">ACM DL</a> | <a>BibTeX</a> | <a href="../assets/GROUP_Communal_poster.pdf" target="_blank">Poster</a>
+<i>GROUP 2022.</i> | <a href="https://doi.org/10.1145/3565967.3570983" target="_blank">ACM DL</a> | <a href="../assets/GROUP_Concert_BibTex.txt" target="_blank">BibTeX</a> | <a href="../assets/GROUP_Communal_poster.pdf" target="_blank">Poster</a>
 
 [p.3] <a href="../assets/CSCW_Tomi.pdf" target="_blank">Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration</a><br>
 <b>Taewook Kim</b>, Qingyu Guo, Hyeonjae Kim, Wenjie Yang, Meiziniu Li, Xiaojuan Ma<br>
