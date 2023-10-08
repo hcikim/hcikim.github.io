@@ -4,7 +4,7 @@ layout: default
 
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I study the impact of language on well-being. My research aims to foster the use of beautiful language [c.3] and offer mental health support to those hurt by abusive language [c.5]. I build systems and study people.
+I study the impact of language on human well-being. My research aims to 1) foster the use of beautiful language, and 2) offer mental health support to those hurt by abusive language. I build systems and study people.
 
 
 ## News
@@ -20,9 +20,9 @@ I study the impact of language on well-being. My research aims to foster the use
 <b><i>Referred Conference Proceedings and Journal Articles</i></b>
 
 
-[c.5] <a href="" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
+[c.5] <a>Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
-<i>CSCW 2024.</i> | <a href="" target="_blank">ACM DL</a> | <a href="" target="_blank">BibTeX</a>
+<i>CSCW 2024.</i> | <a>ACM DL</a> | <a>BibTeX</a>
 
 [c.4] <a href="../assets/LatS_RLens.pdf" target="_blank">RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
 Meng Xia, Yankun Zhao, Jihyeong Hong, Mehmet Hamza Erol, <b>Taewook Kim</b>, Juho Kim<br>
