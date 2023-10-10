@@ -4,7 +4,7 @@ layout: default
 
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I study the impact of language on human well-being. My research aims to 1) foster the use of artistic language, and 2) offer mental health support to those hurt by abusive language. I build systems and study people.
+I study the impact of language on human well-being. My research aims to 1) foster the use of artistic language, and 2) offer mental health support to those hurt by abusive language for improving human well-being. I build systems and study people.
 
 
 ## News
