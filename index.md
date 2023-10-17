@@ -4,7 +4,8 @@ layout: default
 
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I build systems and study people to navigate the impact of language on human well-being. My research aims to 1) foster the use/creation of artistic language, and 2) offer support to those hurt by abusive language for improving human well-being.
+I study how to navigate the impact of language to improve human well-being. My research aims to 1) foster the use/creation of artistic language (e.g., <a href="./project_lily.html" target="_blank">Lily</a>), and 2) offer mental health support to those hurt by abusive language.
+
 
 <b>I am actively looking for research internship opportunities.</b>
 
@@ -12,7 +13,6 @@ I build systems and study people to navigate the impact of language on human wel
 
 | Sep 2023  |  🤞 Submitted two papers to CHI '24. Fingers crossed! |
 | Sep 2023  |  🥳 I'm thrilled that my dementia paper is accepted to CSCW '24 |
-| Jun 2023  |  🥳 Yay!! I passed Communication PhD Qualification exam! |
 | May 2023  |  🥳 Yay!! I passed CS PhD Qualification exam! |
 | Apr 2023  |  🥳 Yay!! I won the Northwestern Advanced Cognitive Science Fellowship! |
 | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
@@ -25,7 +25,7 @@ I build systems and study people to navigate the impact of language on human wel
 
 [c.5] <a>Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
-<i>CSCW 2024.</i> | <a>ACM DL</a> | <a>BibTeX</a>
+<i>CSCW 2024.</i> | (Accepted with minor revisions)
 
 [c.4] <a href="../assets/LatS_RLens.pdf" target="_blank">RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
 Meng Xia, Yankun Zhao, Jihyeong Hong, Mehmet Hamza Erol, <b>Taewook Kim</b>, Juho Kim<br>
