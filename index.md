@@ -9,6 +9,7 @@ I study how to steer the impact of language to improve human well-being. My rese
 
 <b>I am actively looking for research internship opportunities.</b>
 
+
 ## News
 
 | Sep 2023  |  🤞 Submitted two papers to CHI '24. Fingers crossed! |
@@ -67,4 +68,4 @@ Zhenhui Peng, <b>Taewook Kim</b>, and Xiaojuan Ma<br>
 
 ## Miscellaneous
 
-In my free time, I run marathons 🏃🏻 and enjoy gym workouts 🏋🏻 for fun.
+I am a gym rat 🏋🏻.
