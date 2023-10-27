@@ -8,7 +8,7 @@ layout: demo
 
 <div class="authorlists" align="center">
 	<div class="author">
-		<img src="/assets/img/taewook_torso.jpg" alt="taewook">
+		<img src="/assets/authors/mint_small.jpg" alt="taewook">
 		<div class="authorname">
 			<a href="https://hcikim.github.io/" target="_blank">Taewook Kim<br></a>HKUST
 		</div>
