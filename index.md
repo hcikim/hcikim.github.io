@@ -2,12 +2,11 @@
 layout: default
 ---
 
+<b>✨I am actively looking for research internship opportunities.</b>
+
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
 I study how to steer the impact of language to improve human well-being. My research aims to 1) foster the use/creation of artistic language (e.g., <a href="./project_lily.html" target="_blank">Lily</a>), and 2) offer mental health support to those hurt by abusive language.
-
-
-<b>I am actively looking for research internship opportunities.</b>
 
 
 ## News
