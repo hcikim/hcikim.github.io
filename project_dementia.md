@@ -22,7 +22,7 @@ layout: demo
 	<div class="author">
 		<img src="/assets/authors/angela.png" alt="angela">
 		<div class="authorname">
-			<a href="https://www.uwo.ca/fhs/csd//about/faculty/roberts_a.html" target="_blank">Angela Roberts<br></a>University of Western Ontario
+			<a href="https://www.uwo.ca/fhs/csd//about/faculty/roberts_a.html" target="_blank">Angela Roberts<br></a>Western University
 		</div>
 	</div>
 	<div class="author">
