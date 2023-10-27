@@ -48,6 +48,12 @@ People with dementia (PwD) often present verbal agitation such as cursing, screa
 
 <br>
 
+<div class="ui" align="center">
+	<img src="./assets/dementia_va.png" width="80%">
+</div>
+
+<br>
+
 ## Research Questions
 
 
