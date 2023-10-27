@@ -22,7 +22,7 @@ layout: demo
 	<div class="author">
 		<img src="/assets/authors/angela.png" alt="angela">
 		<div class="authorname">
-			<a href="https://www.uwo.ca/fhs/csd//about/faculty/roberts_a.html" target="_blank">Angela Roberts<br></a>Western University
+			<a href="https://www.uwo.ca/fhs/csd//about/faculty/roberts_a.html" target="_blank">Angela Roberts<br></a>University of Western Ontario
 		</div>
 	</div>
 	<div class="author">
@@ -34,7 +34,7 @@ layout: demo
 	<div class="author">
 		<img src="/assets/authors/matt.jpeg" alt="matt">
 		<div class="authorname">
-			<a href="https://www.mjskay.com/" target="_blank">Matt Kay<br></a>Northwestern University
+			<a href="https://www.mjskay.com/" target="_blank">Matthew Kay<br></a>Northwestern University
 		</div>
 	</div>
 </div>
