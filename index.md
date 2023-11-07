@@ -11,6 +11,7 @@ I study how to steer the impact of language to improve human well-being. My rese
 
 ## News
 
+| Nov 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '24 |
 | Sep 2023  |  🤞 Submitted two papers to CHI '24. Fingers crossed! |
 | Sep 2023  |  🥳 I'm thrilled that my dementia paper is accepted to CSCW '24 |
 | May 2023  |  🥳 Yay!! I passed CS PhD Qualification exam! |
