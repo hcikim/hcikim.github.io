@@ -26,7 +26,7 @@ I study how to steer the impact of language to improve human well-being. My rese
 
 [c.5] <a>Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
-<i>CSCW 2024.</i> | <a href="./project_dementia.html" target="_blank">▶︎ Project Website</a> | (to appear)
+<i>CSCW 2024.</i> | <a href="https://arxiv.org/abs/2311.10912" target="_blank">arXiv</a> | <a href="./project_dementia.html" target="_blank">▶︎ Project Website</a> | (to appear)
 
 [c.4] <a href="../assets/LatS_RLens.pdf" target="_blank">RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
 Meng Xia, Yankun Zhao, Jihyeong Hong, Mehmet Hamza Erol, <b>Taewook Kim</b>, Juho Kim<br>
