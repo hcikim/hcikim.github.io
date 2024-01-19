@@ -13,6 +13,7 @@ I study how to steer the impact of language to improve human well-being. I enjoy
 
 ## News
 
+| Jan 2024  |  🥳 I'm thrilled that my personalization paper is conditionally accepted to CHI'24|
 | Nov 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '24 |
 | Sep 2023  |  🤞 Submitted two papers to CHI '24. Fingers crossed! |
 | Sep 2023  |  🥳 I'm thrilled that my dementia paper is accepted to CSCW '24 |
@@ -25,6 +26,10 @@ I study how to steer the impact of language to improve human well-being. I enjoy
 
 <b><i>Referred Conference Proceedings and Journal Articles</i></b>
 
+
+[c.6] <a>Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
+<b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
+<i>CHI 2024.</i> | <a>ACM DL</a> | <a>BibTeX</a> (Conditionally accepted)
 
 [c.5] <a href="../assets/CSCW_Kim_Dementia.pdf" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
