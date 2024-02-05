@@ -31,7 +31,7 @@ I study how to steer the impact of language to improve human well-being. I enjoy
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
 <i>CHI 2024.</i> | <a>ACM DL</a> | <a>BibTeX</a> (Conditionally accepted)
 
-[c.5] <a href="../assets/CSCW_Kim_Dementia.pdf" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
+[c.5] <a href="../assets/CSCW_Dementia.pdf" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
 <i>CSCW 2024.</i> | <a href="https://arxiv.org/abs/2311.10912" target="_blank">arXiv</a> | <a href="./project_dementia.html" target="_blank">▶︎ Project Website</a> | <a href="../assets/CSCW_Dementia_BibTex.txt" target="_blank">BibTeX</a> (to appear)
 

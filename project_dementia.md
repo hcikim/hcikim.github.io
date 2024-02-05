@@ -121,7 +121,7 @@ A potential example of application, modalities, and artifacts for i) before, ii)
 
 <script>
 	function openWin() {
-		window.open("https://hcikim.github.io/assets/CSCW_Kim_Dementia.pdf");
+		window.open("https://hcikim.github.io/assets/CSCW_Dementia.pdf");
 	}
 </script>
 
