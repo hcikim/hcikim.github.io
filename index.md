@@ -14,6 +14,7 @@ I study how to steer the impact of language to improve human well-being. I enjoy
 ## News
 
 | Jan 2024  |  🥳 I'm thrilled that my personalization paper is conditionally accepted to CHI'24|
+| Jan 2024  |  🤞 Submitted a paper to CSCW '24/25. Fingers crossed! | 
 | Nov 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '24 |
 | Sep 2023  |  🤞 Submitted two papers to CHI '24. Fingers crossed! |
 | Sep 2023  |  🥳 I'm thrilled that my dementia paper is accepted to CSCW '24 |
