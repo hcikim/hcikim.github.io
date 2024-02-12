@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-<b>🙌 I am actively looking for research internship opportunities.</b>
-
+<li><b>🙌 I am actively looking for research internship opportunities.</b></li>
+<li><b>🎤 I will be presenting at <a href="https://chi2024.acm.org/" target="_blank">CHI 2024</a> in Honolulu, HI, U.S.A.</b></li>
+<br>
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
 I study how to steer the impact of language to improve human well-being. I enjoy building systems and studying people. Recently, I'm working on personalizing language media arts (e.g., lyrics, scripts) to user contexts by leveraging generative AI.
@@ -29,7 +29,7 @@ I study how to steer the impact of language to improve human well-being. I enjoy
 
 [c.6] <a>Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
-<i>CHI 2024.</i> | <a>ACM DL</a> | <a>BibTeX</a> (Conditionally accepted)
+<i>CHI 2024.</i> | <a href="https://doi.org/10.1145/3613904.3642529" target="_blank">ACM DL</a> | <a>BibTeX</a> (Conditionally accepted)
 
 [c.5] <a href="../assets/CSCW_Dementia.pdf" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
