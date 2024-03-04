@@ -30,7 +30,7 @@ I study how to steer the impact of language to improve human well-being. I enjoy
 
 [c.6] <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
-<i>CHI 2024.</i> | <a href="https://doi.org/10.1145/3613904.3642529" target="_blank">ACM DL</a> | <a>BibTeX</a> (Conditionally accepted)
+<i>CHI 2024.</i> | <a href="https://arxiv.org/abs/2403.00439" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3613904.3642529" target="_blank">ACM DL</a> | <a>BibTeX</a> (Conditionally accepted)
 
 [c.5] <a href="../assets/CSCW_Dementia.pdf" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
