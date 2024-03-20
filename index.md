@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<li><b>🙌 I am actively looking for research internship opportunities.</b></li>
+
 <li><b>🎤 I will be presenting at <a href="https://chi2024.acm.org/" target="_blank">CHI 2024</a> in Honolulu, HI, U.S.A.</b></li>
 <br>
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
