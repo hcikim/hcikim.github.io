@@ -6,18 +6,17 @@ layout: default
 <br>
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I study how to steer the impact of language to improve human well-being. I enjoy building systems and studying people. Recently, I'm working on personalizing language media arts (e.g., lyrics, scripts) to user contexts by leveraging generative AI.
-
-<!-- My research aims to 1) foster the use/creation of artistic language (e.g., <a href="./project_lily.html" target="_blank">Lily</a>), and 2) offer mental health support to those hurt by abusive language. -->
+I study how to steer the impact of language to improve human well-being. Specifically, I am interested in designing novel interactions that could entertain people. I enjoy building systems and understanding people.
 
 
 ## News
 
-| Jan 2024  |  🥳 I'm thrilled that my personalization paper is conditionally accepted to CHI'24|
+| Mar 2024  |  🥳 I joined Midjourney as a visiting researcher. |
+| Jan 2024  |  🥳 My personalization paper is conditionally accepted to CHI'24. |
 | Jan 2024  |  🤞 Submitted a paper to CSCW '24/25. Fingers crossed! | 
 | Nov 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '24 |
 | Sep 2023  |  🤞 Submitted two papers to CHI '24. Fingers crossed! |
-| Sep 2023  |  🥳 I'm thrilled that my dementia paper is accepted to CSCW '24 |
+| Sep 2023  |  🥳 My dementia paper is accepted to CSCW '24. |
 | May 2023  |  🥳 Yay!! I passed CS PhD Qualification exam! |
 | Apr 2023  |  🥳 Yay!! I won the Northwestern Advanced Cognitive Science Fellowship! |
 | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
