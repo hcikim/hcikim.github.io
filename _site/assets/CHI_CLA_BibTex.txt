@@ -1,0 +1,14 @@
+@inproceedings{kim2024authors,
+author = {Kim, Taewook and Han, Hyomin and Adar, Eytan and Kay, Matthew and Chung, John Joon Young},
+title = {Authors’ Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3613904.3642529},
+doi = {10.1145/3613904.3642529},
+booktitle = {Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+numpages = {16},
+keywords = {Authorial control, Creative language arts, Creative writing, Generative AI, Large language models, Scalable personalization},
+location = {<conf-loc>, <city>Honolulu</city>, <state>HI</state>, <country>USA</country>, </conf-loc>},
+series = {CHI '24}
+}
