@@ -19,7 +19,7 @@ I study how to steer the impact of language to improve human well-being. Specifi
 | Sep 2023  |  🥳 My dementia paper is accepted to CSCW '24. |
 | May 2023  |  🥳 Yay!! I passed CS PhD Qualification exam! |
 | Apr 2023  |  🥳 Yay!! I won the Northwestern Advanced Cognitive Science Fellowship! |
-<!-- | Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 | -->
+| Mar 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CSCW '23 |
 
 
 ## Publications
