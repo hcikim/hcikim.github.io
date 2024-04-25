@@ -11,7 +11,8 @@ I study how to steer the impact of language to improve human well-being. Specifi
 
 ## News
 
-| Mar 2024  |  🥳 I joined Midjourney as a visiting researcher. |
+| Apr 2024  |  🏅 My personalization paper got the Honorable Mention Award! |
+| Mar 2024  |  👨🏻‍💻 I joined Midjourney as a visiting researcher. |
 | Jan 2024  |  🥳 My personalization paper is conditionally accepted to CHI'24. |
 | Jan 2024  |  🤞 Submitted a paper to CSCW '24/25. Fingers crossed! | 
 | Nov 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '24 |
