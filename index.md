@@ -30,12 +30,12 @@ I study how to steer the impact of language to improve human well-being. Specifi
 
 [c.6] <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
-<i>CHI 2024.</i> | <a href="https://arxiv.org/abs/2403.00439" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3613904.3642529" target="_blank">ACM DL</a> | <a href="../assets/CHI_CLA_BibTex.txt" target="_blank">BibTeX</a> (to appear)<br>
+<i>CHI 2024.</i> | <a href="https://arxiv.org/abs/2403.00439" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3613904.3642529" target="_blank">ACM DL</a> | <a href="../assets/CHI_CLA_BibTex.txt" target="_blank">BibTeX</a><br>
 🏅 <b style="background-color:#e0e0e0;"><span>&#8203;</span> Best paper honorable mention (top 5%) <span>&#8203;</span></b>
 
 [c.5] <a href="../assets/CSCW_Dementia.pdf" target="_blank">Opportunities in Mental Health Support for Informal Dementia Caregivers Suffering from Verbal Agitation</a><br>
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
-<i>CSCW 2024.</i> | <a href="https://arxiv.org/abs/2311.10912" target="_blank">arXiv</a> | <a href="./project_dementia.html" target="_blank">▶︎ Project Website</a> | <a href="../assets/CSCW_Dementia_BibTex.txt" target="_blank">BibTeX</a> (to appear)
+<i>CSCW 2024.</i> | <a href="https://arxiv.org/abs/2311.10912" target="_blank">arXiv</a> | <a href="https://dl.acm.org/doi/10.1145/3637381" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Dementia_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_dementia.html" target="_blank">▶︎ Project Website</a>
 
 [c.4] <a href="../assets/LatS_RLens.pdf" target="_blank">RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship</a><br>
 Meng Xia, Yankun Zhao, Jihyeong Hong, Mehmet Hamza Erol, <b>Taewook Kim</b>, Juho Kim<br>
