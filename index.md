@@ -4,9 +4,7 @@ layout: default
 
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I am interested in designing tools for reframing one context to another shape by leveraging AI, espeically large language models (LLMs). For example, AI could <a href="./project_lily.html" target="_blank">reframe users' language tones to be more romantic</a>, <a href="../assets/CSCW_Dementia.pdf" target="_blank">reshape aggressive words to be softer</a>, and <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">personalize media content to resonate more with users at scale</a>.
-
-Lately, I build interactive systems to help users personalize the language content to enhance authors' expression and audiences' comprehension by leveraging LLMs. I enjoy building systems and understanding people.
+I build and evaluate interactive systems to help users personalize the language content to enhance authors’ expression and audiences’ comprehension by leveraging large language models.
 
 ## News
 
@@ -14,8 +12,6 @@ Lately, I build interactive systems to help users personalize the language conte
 | Apr 2024  |  🏅 My personalization paper got the Honorable Mention Award! |
 | Mar 2024  |  👨🏻‍💻 I joined Midjourney as a visiting researcher. |
 | Jan 2024  |  🥳 My personalization paper is conditionally accepted to CHI'24. |
-| Jan 2024  |  🤞 Submitted a paper to CSCW '24/25. Fingers crossed! | 
-| Nov 2023  |  🏅 Received a Special Recognition for Outstanding Reviews - CHI '24 |
 
 
 ## Selected Publications
