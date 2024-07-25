@@ -4,7 +4,7 @@ layout: default
 
 I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I build and evaluate interactive systems to help users personalize the language content to enhance authors’ expression and audiences’ comprehension by leveraging large language models.
+I build and evaluate interactive systems to support the personalization of language content to enhance authors' expression and audiences' engagement by leveraging large language models.
 
 ## News
 
@@ -32,4 +32,4 @@ I build and evaluate interactive systems to help users personalize the language 
 
 ## Miscellaneous
 
-I am a gym rat 🏋🏻.
+I enjoy pulling, pushing, and, lifting at the gym 🏋🏻.
