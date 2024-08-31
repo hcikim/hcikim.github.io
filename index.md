@@ -2,12 +2,13 @@
 layout: default
 ---
 
-I am Taewook [teug] Kim, a third year Ph.D. student in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
+I am Taewook [teug] Kim, a fourth year Ph.D. candidate in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
 I build and evaluate interactive systems to support the personalization of language content to enhance authors' expression and audiences' engagement by leveraging large language models.
 
 ## News
 
+| Aug 2024  |  🥳 I completed all three qualification exams (CS/Comm1/Comm2). |
 | Jun 2024  |  👨🏻‍💻 I joined Accenture Labs as a visiting researcher. |
 | Apr 2024  |  🏅 My personalization paper got the Honorable Mention Award! |
 | Mar 2024  |  👨🏻‍💻 I joined Midjourney as a visiting researcher. |
