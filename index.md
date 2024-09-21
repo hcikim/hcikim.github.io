@@ -8,6 +8,7 @@ I build and evaluate interactive systems to support the personalization of langu
 
 ## News
 
+| Sep 2024  |  🥳 Gen AI for Mental Health is conditionally accepted to CSCW'25. |
 | Aug 2024  |  🥳 I completed all three qualification exams (CS/Comm1/Comm2). |
 | Jun 2024  |  👨🏻‍💻 I joined Accenture Labs as a visiting researcher. |
 | Apr 2024  |  🏅 My personalization paper got the Honorable Mention Award! |
