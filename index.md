@@ -4,7 +4,7 @@ layout: default
 
 I am Taewook [teug] Kim, a fourth year Ph.D. candidate in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I build and evaluate interactive systems to support the personalization of language content to enhance authors' expression and audiences' engagement by leveraging large language models.
+I enjoy building and evaluating AI-powered interactive systems to facilitate imbuing societal values such as love and sincerity in language content.
 
 ## News
 
