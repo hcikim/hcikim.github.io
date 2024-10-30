@@ -8,6 +8,7 @@ I enjoy building and evaluating AI-powered interactive systems to facilitate imb
 
 ## News
 
+| Oct 2024  |  🤞 Submitted another internship paper to CSCW'25. |
 | Oct 2024  |  🤞 Submitted an internship paper to IUI'25. |
 | Sep 2024  |  🥳 Gen AI for Mental Health is conditionally accepted to CSCW'25. |
 | Aug 2024  |  🥳 I completed all three qualification exams (CS/Comm1/Comm2). |
