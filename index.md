@@ -8,8 +8,6 @@ I enjoy building and evaluating AI-powered interactive systems to facilitate imb
 
 ## News
 
-| Oct 2024  |  🤞 Submitted another internship paper to CSCW'25. |
-| Oct 2024  |  🤞 Submitted an internship paper to IUI'25. |
 | Sep 2024  |  🥳 Gen AI for Mental Health is conditionally accepted to CSCW'25. |
 | Aug 2024  |  🥳 I completed all three qualification exams (CS/Comm1/Comm2). |
 | Jun 2024  |  👨🏻‍💻 I joined Accenture Labs as a visiting researcher. |
@@ -20,6 +18,10 @@ I enjoy building and evaluating AI-powered interactive systems to facilitate imb
 
 ## Selected Publications
 
+📖 <a>Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
+<b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
+<i>arXiv.</i> | <a href="" target="_blank">arXiv</a> | <a href="" target="_blank">BibTeX</a><br>
+
 👨🏻‍🎨 <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
 <i>CHI 2024.</i> | <a href="https://arxiv.org/abs/2403.00439" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3613904.3642529" target="_blank">ACM DL</a> | <a href="../assets/CHI_CLA_BibTex.txt" target="_blank">BibTeX</a><br>
@@ -29,7 +31,7 @@ I enjoy building and evaluating AI-powered interactive systems to facilitate imb
 <b>Taewook Kim</b>, Hyeok Kim, Angela Roberts, Maia Jacobs, Matthew Kay<br>
 <i>CSCW 2024.</i> | <a href="https://arxiv.org/abs/2311.10912" target="_blank">arXiv</a> | <a href="https://dl.acm.org/doi/10.1145/3637381" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Dementia_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_dementia.html" target="_blank">▶︎ Project Website</a>
 
-👩🏻‍❤️‍💋‍👨🏻 <a href="../assets/CSCW_Lily.pdf" target="_blank">Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</a><br>
+😘 <a href="../assets/CSCW_Lily.pdf" target="_blank">Love in Lyrics: An Exploration of Supporting Textual Manifestation of Affection in Social Messaging</a><br>
 <b>Taewook Kim</b>, Jungsoo Lee, Zhenhui Peng, and Xiaojuan Ma<br>
 <i>CSCW 2019.</i> | <a href="https://doi.org/10.1145/3359181" target="_blank">ACM DL</a> | <a href="../assets/CSCW_Lily_BibTex.txt" target="_blank">BibTeX</a> | <a href="./project_lily.html" target="_blank">▶︎ Project Website</a>
 
