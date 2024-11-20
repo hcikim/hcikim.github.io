@@ -1,0 +1,9 @@
+@misc{kim2024steering,
+      title={Steering AI-Driven Personalization of Scientific Text for General Audiences}, 
+      author={Taewook Kim and Dhruv Agarwal and Jordan Ackerman and Manaswi Saha},
+      year={2024},
+      eprint={2411.09969},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2411.09969}, 
+}

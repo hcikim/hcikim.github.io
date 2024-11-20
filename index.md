@@ -18,9 +18,9 @@ I enjoy building and evaluating AI-powered interactive systems to facilitate imb
 
 ## Selected Publications
 
-📖 <a>Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
+📖 <a href="https://arxiv.org/pdf/2411.09969" target="_blank">Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
 <b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
-<i>arXiv.</i> | <a href="" target="_blank">arXiv</a> | <a href="" target="_blank">BibTeX</a><br>
+<i>arXiv.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a><br>
 
 👨🏻‍🎨 <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
