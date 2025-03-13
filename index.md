@@ -4,7 +4,9 @@ layout: default
 
 I am Taewook [teug] Kim, a fourth year Ph.D. candidate in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
-I enjoy building and evaluating AI-powered interactive systems to facilitate imbuing societal values such as love and sincerity in language content.
+My research interests span the intersection between human-computer interaction (HCI) and AI. I enjoy building and evaluating AI-powered interactive systems. Recently, I have been interested in designing human-AI interaction paradigms that can preserve and enhance human agency.
+
+I will be joining <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Toyota Research Institute</a> as a research intern this summer 2025.
 
 ## News
 
