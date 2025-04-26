@@ -6,7 +6,7 @@ I am Taewook [teug] Kim, a fourth year Ph.D. candidate in <a href="https://www.m
 
 My research interests span the intersection between human-computer interaction (HCI) and AI. I enjoy building and evaluating AI-powered interactive systems. Recently, I have been interested in designing human-AI interaction paradigms that can preserve and enhance human agency.
 
-I will be joining <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Toyota Research Institute</a> as a research intern this summer 2025.
+I will be working with <a href="https://www.tri.global/about-us/dr-matthew-hong" target="_blank">Matt Hong</a> at <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Toyota Research Institute</a> this summer.
 
 ## News
 
