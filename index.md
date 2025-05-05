@@ -10,6 +10,10 @@ I will be working with <a href="https://www.tri.global/about-us/dr-matthew-hong"
 
 ## News
 
+| Apr 2025  |  🤞 Made a *major revision* submission to CSCW'25. |
+| Apr 2025  |  🤞 Submitted a manuscript to UIST'25. |
+| Jan 2025  |  🥳 Received a summer internship offer from TRI! |
+| Oct 2024  |  🤞 Submitted a manuscript to CSCW'25. |
 | Sep 2024  |  🥳 Gen AI for Mental Health is conditionally accepted to CSCW'25. |
 | Aug 2024  |  🥳 I completed all three qualification exams (CS/Comm1/Comm2). |
 | Jun 2024  |  👨🏻‍💻 I joined Accenture Labs as a visiting researcher. |
