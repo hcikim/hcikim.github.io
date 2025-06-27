@@ -15,4 +15,4 @@ gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 
 gem "jemoji"
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
