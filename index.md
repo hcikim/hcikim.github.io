@@ -26,9 +26,13 @@ I will be working with <a href="https://www.tri.global/about-us/dr-matthew-hong"
 
 ## Selected Publications
 
+🖋 <a href="https://arxiv.org/pdf/2507.03307" target="_blank">Scaffolding Recursive Divergence and Convergence in Story Ideation</a><br>
+<b>Taewook Kim</b>, Matthew Kay, Yuqian Sun, Melissa Roemmele, Max Kreminski, John Chung<br>
+<i>arXiv.</i> | <a href="https://arxiv.org/abs/2507.03307" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a><br>
+
 📖 <a href="../assets/CSCW_TranSlider.pdf" target="_blank">Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
 <b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
-<i>CSCW 2025.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a><br>
+<i>CSCW 2025.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3757660" target="_blank">ACM DL</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a><br>
 
 👨🏻‍🎨 <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
