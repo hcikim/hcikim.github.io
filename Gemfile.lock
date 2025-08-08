@@ -67,9 +67,9 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     minitest (5.16.3)
-    nokogiri (1.16.0-arm64-darwin)
+    nokogiri (1.13.10-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.16.0-x86_64-darwin)
+    nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -93,6 +93,7 @@ GEM
     zeitwerk (2.6.5)
 
 PLATFORMS
+  arm64-darwin-24
   universal-darwin-21
   x86_64-darwin-19
 
@@ -105,4 +106,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.25
+   2.4.22

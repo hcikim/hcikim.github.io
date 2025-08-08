@@ -6,29 +6,14 @@ I am Taewook [teug] Kim, a fourth year Ph.D. candidate in <a href="https://www.m
 
 My research interests span the intersection between human-computer interaction (HCI) and AI. I enjoy building and evaluating AI-powered interactive systems. Recently, I have been interested in designing human-AI interaction paradigms that can preserve and enhance human agency.
 
-I will be working with <a href="https://www.tri.global/about-us/dr-matthew-hong" target="_blank">Matt Hong</a> at <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Toyota Research Institute</a> this summer.
-
-## News
-
-| Jun 2025  |  🥳 My TranSlider project is conditionally accepted to CSCW'25. |
-| Jun 2025  |  👨🏻‍💻 I joined Toyota Research Institute as a Research Intern. |
-| Apr 2025  |  🤞 Made a *major revision* submission to CSCW'25. |
-| Apr 2025  |  🤞 Submitted a manuscript to UIST'25. |
-| Jan 2025  |  🥳 Received a summer internship offer from TRI! |
-| Oct 2024  |  🤞 Submitted a manuscript to CSCW'25. |
-| Sep 2024  |  🥳 Gen AI for Mental Health is conditionally accepted to CSCW'25. |
-| Aug 2024  |  🥳 I completed all three qualification exams (CS/Comm1/Comm2). |
-| Jun 2024  |  👨🏻‍💻 I joined Accenture Labs as a visiting researcher. |
-| Apr 2024  |  🏅 My personalization paper got the Honorable Mention Award! |
-| Mar 2024  |  👨🏻‍💻 I joined Midjourney as a visiting researcher. |
-| Jan 2024  |  🥳 My personalization paper is conditionally accepted to CHI'24. |
+This summer, I am working with <a href="https://www.tri.global/about-us/dr-matthew-hong" target="_blank">Matt Hong</a> in the <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Human-Centered AI division</a> at the <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Toyota Research Institute</a> as a research intern.
 
 
 ## Selected Publications
 
 🖋 <a href="https://arxiv.org/pdf/2507.03307" target="_blank">Scaffolding Recursive Divergence and Convergence in Story Ideation</a><br>
 <b>Taewook Kim</b>, Matthew Kay, Yuqian Sun, Melissa Roemmele, Max Kreminski, John Chung<br>
-<i>arXiv.</i> | <a href="https://arxiv.org/abs/2507.03307" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a><br>
+<i>arXiv.</i> | <a href="https://arxiv.org/abs/2507.03307" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a href="https://drive.google.com/file/d/1dghkCJXU32-BbxsXfO9M6-afLTlQjg61/view?usp=sharing" target="_blank">Demo video</a><br>
 
 📖 <a href="../assets/CSCW_TranSlider.pdf" target="_blank">Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
 <b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
