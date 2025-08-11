@@ -17,7 +17,7 @@ This summer, I am working with <a href="https://www.tri.global/about-us/dr-matth
 
 📖 <a href="../assets/CSCW_TranSlider.pdf" target="_blank">Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
 <b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
-<i>CSCW 2025.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3757660" target="_blank">ACM DL</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a>▶︎ Demo website (coming soon)</a><br>
+<i>CSCW 2025.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3757660" target="_blank">ACM DL</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a href="https://drive.google.com/file/d/1D-L8jh-yy9inCzg3swk8_k6RmicCCMm-/view?usp=sharing" target="_blank"><b>▶︎ Demo video</b></a><br>
 
 👨🏻‍🎨 <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
