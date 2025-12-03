@@ -2,11 +2,9 @@
 layout: default
 ---
 
-I am Taewook [teug] Kim, a fourth year Ph.D. candidate in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
+I am Taewook [teug] Kim, a Ph.D. Candidate (ABD) in <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Computer Science</a> and <a href="https://communication.northwestern.edu/" target="_blank">Communication</a> at Northwestern University. I work with <a href="https://www.mjskay.com/" target="_blank">Matt Kay</a>.
 
 My research interests span the intersection between human-computer interaction (HCI) and AI. I enjoy building and evaluating AI-powered interactive systems. Recently, I have been interested in designing human-AI interaction paradigms that can preserve and enhance human agency.
-
-This summer, I am working with <a href="https://www.tri.global/about-us/dr-matthew-hong" target="_blank">Matt Hong</a> in the <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Human-Centered AI division</a> at the <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank">Toyota Research Institute</a> as a research intern.
 
 
 ## Selected Publications
@@ -17,7 +15,7 @@ This summer, I am working with <a href="https://www.tri.global/about-us/dr-matth
 
 📖 <a href="../assets/CSCW_TranSlider.pdf" target="_blank">Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
 <b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
-<i>CSCW 2025.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3757660" target="_blank">ACM DL</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a href="https://drive.google.com/file/d/1BDclWyqJczSldS_wN4RBLaDu5GnUwNhr/view?usp=sharing" target="_blank"><b>▶︎ Demo video</b></a><br>
+<i>CSCW 2025.</i> | <a href="https://arxiv.org/abs/2411.09969" target="_blank">arXiv</a> | <a href="https://doi.org/10.1145/3757660" target="_blank">ACM DL</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a href="https://youtu.be/o3m2N2sK9O4" target="_blank"><b>▶︎ Demo video</b></a><br>
 
 👨🏻‍🎨 <a href="../assets/CHI_AI-bridged CLA.pdf" target="_blank">Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts</a><br>
 <b>Taewook Kim</b>, Hyomin Han, Eytan Adar, Matthew Kay, John Chung<br>
