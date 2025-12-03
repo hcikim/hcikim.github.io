@@ -9,9 +9,9 @@ My research interests span the intersection between human-computer interaction (
 
 ## Selected Publications
 
-🖋 <a href="https://arxiv.org/pdf/2507.03307" target="_blank">Scaffolding Recursive Divergence and Convergence in Story Ideation</a><br>
+🖋 <a href="https://arxiv.org/pdf/2507.03307" target="_blank">Reverger: Scaffolding Recursive Divergence and Convergence in Story Ideation</a><br>
 <b>Taewook Kim</b>, Matthew Kay, Yuqian Sun, Melissa Roemmele, Max Kreminski, John Chung<br>
-<i>arXiv.</i> | <a href="https://arxiv.org/abs/2507.03307" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a href="https://drive.google.com/file/d/1dghkCJXU32-BbxsXfO9M6-afLTlQjg61/view?usp=sharing" target="_blank"><b>▶︎ Demo video</b></a><br>
+<i>arXiv.</i> | <a href="https://arxiv.org/abs/2507.03307" target="_blank">arXiv</a> | <a href="../assets/arxiv_div_conv.txt" target="_blank">BibTeX</a> | <a href="https://youtu.be/KpU0N5oE5f4" target="_blank"><b>▶︎ Demo video</b></a><br>
 
 📖 <a href="../assets/CSCW_TranSlider.pdf" target="_blank">Steering AI-Driven Personalization of Scientific Text for General Audiences</a><br>
 <b>Taewook Kim</b>, Dhruv Agarwal, Jordan Ackerman, Manaswi Saha<br>
