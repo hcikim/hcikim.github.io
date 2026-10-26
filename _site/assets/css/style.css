@@ -156,7 +156,7 @@ h2 { color: var(--clr-h2); }
 
 h3, h4, h5, h6 { color: var(--clr-h-3-6); }
 
-a { color: #95b0aa; text-decoration: none; }
+a { color: #4a7a70; text-decoration: none; }
 
 a:hover, a:focus { color: #4E2A84; text-decoration: underline; }
 
@@ -192,7 +192,7 @@ img { max-width: 100%; }
 
 kbd { background-color: var(--clr-kbd-bg); border: 1px solid var(--clr-kbd-border); border-bottom-color: var(--clr-kbd-border-bottom-and-shadow); border-radius: 3px; box-shadow: inset 0 -1px 0 var(--clr-kbd-border-bottom-and-shadow); color: var(--clr-kbd-text); display: inline-block; font-size: 11px; line-height: 10px; padding: 3px 5px; vertical-align: middle; }
 
-.sidebar { width: 185px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; top: 0; padding: 58px 0 50px 0; display: flex; flex-direction: column; justify-content: space-between; height: calc(100vh - 108px); overflow-x: hidden; overflow-y: scroll; -ms-overflow-style: -ms-autohiding-scrollbar; }
+.sidebar { width: 165px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; top: 0; padding: 58px 0 50px 0; display: flex; flex-direction: column; justify-content: space-between; height: calc(100vh - 108px); overflow-x: hidden; overflow-y: scroll; -ms-overflow-style: -ms-autohiding-scrollbar; }
 
 @-moz-document url-prefix() { .sidebar { scrollbar-width: none; } }
 
@@ -200,7 +200,7 @@ kbd { background-color: var(--clr-kbd-bg); border: 1px solid var(--clr-kbd-borde
 
 strong { color: var(--clr-h1-and-bold); font-weight: 700; }
 
-section { width: 610px; float: right; padding-bottom: 30px; }
+section { width: 650px; float: right; padding-bottom: 30px; }
 
 small { font-size: 11px; }
 
